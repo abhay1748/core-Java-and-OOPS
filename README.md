@@ -1,1 +1,1 @@
-# core-Java-and-OOPS
+# Core-Java-and-OOPS
